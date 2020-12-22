@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>824187900418-6605qam0pkq97bqc48ggrvqup8o0ip96.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.824187900418-6605qam0pkq97bqc48ggrvqup8o0ip96</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZQ0YXUZO8Q_rhW5jwAbLHKI0dO6jPk4s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>824187900418</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ca.akinwumi.singlepass</string>
+	<key>PROJECT_ID</key>
+	<string>singlepass-d2172</string>
+	<key>STORAGE_BUCKET</key>
+	<string>singlepass-d2172.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:824187900418:ios:7237f969f6df9903624d1b</string>
+	<key>DATABASE_URL</key>
+	<string>https://singlepass-d2172.firebaseio.com</string>
+</dict>
+</plist>
